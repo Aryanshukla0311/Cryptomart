@@ -1,7 +1,5 @@
 # CryptoMart
 
-This project is an assignment by Ayush Gupta for the role of Frontend Intern at Groww.
-
 ## Project Overview
 
 CryptoMart is a comprehensive web application designed to track and analyze various cryptocurrencies. This project was developed as an assignment for the role of Frontend Developer Intern at Groww. It provides real-time updates on cryptocurrency prices, detailed information on individual cryptocurrencies, and features such as an interactive watchlist.
